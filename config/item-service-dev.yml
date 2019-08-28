@@ -6,7 +6,7 @@ spring:
     password: admin
 
 
-spring:
+
   application:
     name: item-service
     

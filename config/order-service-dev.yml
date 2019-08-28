@@ -5,7 +5,6 @@ spring:
     username: admin
     password: admin
 
-spring:
   application:
     name: order-service
     
